@@ -36,6 +36,7 @@ public:
 
 int main()
 {
+	// metoda główna //
 	Eshop eshop;
 	eshop.showProduct();
 	eshop.orderProduct(0, 10);
